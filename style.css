@@ -1,0 +1,18 @@
+h1 {
+    font-size: 75px;
+    background-color: blue;
+    text-align: center;
+    font-weight: 300px;
+    font-style: oblique;
+ }
+
+ p {
+     font-size: 50px;
+     background-color: darkkhaki;
+ }
+body {
+    background-color: bisque;
+    font-style: normal;
+    font-size: medium;
+
+}
